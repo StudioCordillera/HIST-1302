@@ -1,0 +1,82 @@
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Project specific - Captures and Output
+adb_captures/
+batch_captures/
+test_captures/
+kindle_captures/
+BATCH/01_OUT/
+BATCH/02_STORAGE/
+
+# Keep directory structure but ignore contents
+!adb_captures/.gitkeep
+!batch_captures/.gitkeep
+!test_captures/.gitkeep
+!kindle_captures/.gitkeep
+
+# Config (if it contains sensitive paths)
+# config.json
+
+# Temporary files
+*.tmp
+*.log
+*.bak

@@ -1,0 +1,4 @@
+pywin32>=305
+Pillow>=10.0.0
+pytesseract>=0.3.10
+numpy>=1.24.0

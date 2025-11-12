@@ -1,0 +1,38 @@
+{
+  "paths": {
+    "platform_tools": "C:\\Users\\WORK_ADMIN\\Projects\\01_TOOLS\\ADB_Tools\\platform-tools",
+    "tesseract": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe",
+    "output_folder": "kindle_captures"
+  },
+  
+  "scrcpy": {
+    "window_title": "scrcpy",
+    "max_size": 1920,
+    "bitrate": "8M",
+    "initial_delay": 3.0
+  },
+  
+  "capture": {
+    "page_turn_delay": 2.5,
+    "page_turn_method": "swipe"
+  },
+  
+  "page_turn_swipe": {
+    "x1": 800,
+    "y1": 500,
+    "x2": 200,
+    "y2": 500,
+    "duration": 200
+  },
+  
+  "page_turn_tap": {
+    "x": 900,
+    "y": 500
+  },
+  
+  "ocr": {
+    "language": "eng",
+    "psm_mode": 6,
+    "preprocess": true
+  }
+}
