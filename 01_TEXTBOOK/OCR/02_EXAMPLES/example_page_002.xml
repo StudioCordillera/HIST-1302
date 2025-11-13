@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+    <metadata>
+        <page_number>516</page_number>
+        <chapter>21</chapter>
+        <chapter_title>The Progressive Era</chapter_title>
+        <book_title>U.S. History HIST 1302</book_title>
+        <capture_date>2025-11-13</capture_date>
+        <ocr_version>Tesseract 5.0</ocr_version>
+        <image_source>page_0516.png</image_source>
+        <processing_timestamp>2025-11-13T05:37:00Z</processing_timestamp>
+    </metadata>
+    
+    <content>
+        <section type="header">
+            <text>Chapter 21: The Progressive Era</text>
+        </section>
+        
+        <section type="body">
+            <paragraph id="1">
+                <text>Progressive reformers established laws and institutions designed to improve working conditions, protect consumers, and regulate business practices. Key achievements included:</text>
+            </paragraph>
+            
+            <list type="unordered">
+                <item>The establishment of regulatory agencies</item>
+                <item>Child labor laws</item>
+                <item>Pure Food and Drug Act</item>
+                <item>Women's suffrage movement</item>
+            </list>
+            
+            <paragraph id="2">
+                <text>These reforms fundamentally transformed American society and set the foundation for modern government regulation.</text>
+            </paragraph>
+        </section>
+        
+        <section type="footer">
+            <text>Page 516</text>
+        </section>
+    </content>
+    
+    <quality_control>
+        <ocr_confidence>0.93</ocr_confidence>
+        <manual_review_required>false</manual_review_required>
+        <issues_detected>none</issues_detected>
+        <reviewed_by>automated</reviewed_by>
+    </quality_control>
+</page>

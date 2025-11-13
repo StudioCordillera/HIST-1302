@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+    <metadata>
+        <page_number>515</page_number>
+        <chapter>21</chapter>
+        <chapter_title>The Progressive Era</chapter_title>
+        <book_title>U.S. History HIST 1302</book_title>
+        <capture_date>2025-11-13</capture_date>
+        <ocr_version>Tesseract 5.0</ocr_version>
+        <image_source>page_0515.png</image_source>
+        <processing_timestamp>2025-11-13T05:37:00Z</processing_timestamp>
+    </metadata>
+    
+    <content>
+        <section type="header">
+            <text>Chapter 21: The Progressive Era</text>
+        </section>
+        
+        <section type="body">
+            <paragraph id="1">
+                <text>The Progressive Era (1890-1920) was a period of widespread social activism and political reform across the United States. The movement primarily targeted political machines and their bosses, working to eliminate corruption in government.</text>
+            </paragraph>
+            
+            <paragraph id="2">
+                <text>Progressives sought to address the problems caused by industrialization, urbanization, immigration, and political corruption. They believed that government should be the primary agent of change.</text>
+            </paragraph>
+        </section>
+        
+        <section type="footer">
+            <text>Page 515</text>
+        </section>
+    </content>
+    
+    <quality_control>
+        <ocr_confidence>0.95</ocr_confidence>
+        <manual_review_required>false</manual_review_required>
+        <issues_detected>none</issues_detected>
+        <reviewed_by>automated</reviewed_by>
+    </quality_control>
+</page>

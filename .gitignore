@@ -80,3 +80,11 @@ BATCH/02_STORAGE/
 *.tmp
 *.log
 *.bak
+
+# OCR Input Images (large files, not committed)
+01_TEXTBOOK/OCR/00_IMPORT/tmp/**/*.png
+01_TEXTBOOK/OCR/00_IMPORT/tmp/**/*.jpg
+01_TEXTBOOK/OCR/00_IMPORT/tmp/**/*.jpeg
+
+# Keep directory structure
+!01_TEXTBOOK/OCR/00_IMPORT/tmp/.gitkeep
